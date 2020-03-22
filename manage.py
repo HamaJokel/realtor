@@ -3,6 +3,7 @@
 import os
 import sys
 
+#hejsan
 
 def main():
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'btre.settings')
